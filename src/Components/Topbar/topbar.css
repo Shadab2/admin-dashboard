@@ -2,6 +2,9 @@
   height: 50px;
   width: 100%;
   background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 999;
 }
 
 .topbar-wrapper {
@@ -10,4 +13,43 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.logo {
+  font-weight: bold;
+  color: darkblue;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.topbar-icon-container {
+  position: relative;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.top-icon-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -7px;
+  right: -1px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+
+.top-right {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 50%;
 }

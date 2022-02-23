@@ -41,3 +41,89 @@ export const userData = [
     ActiveUsers: 3490,
   },
 ];
+
+export const userRows = [
+  {
+    id: 1,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+
+  {
+    id: 2,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+
+  {
+    id: 3,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 4,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 6,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 7,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 8,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 9,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 10,
+    username: "Robert Downey",
+    email: "downey@gmail.com",
+    avatar:
+      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr.jpg",
+    status: "active",
+    transaction: "$150",
+  },
+];
